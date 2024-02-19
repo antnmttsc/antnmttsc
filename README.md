@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antnmttsc
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Sceince
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me antonio.mattesco01@gmail.com
 - ⚡ Fun fact: I started to get into soccer, now I wouldn't want to stop studying
 <!---
